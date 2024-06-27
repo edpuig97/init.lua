@@ -11,7 +11,7 @@ about though i would just suggest `git log -S`).
 
 ```bash
 mkdir ~/.config/harpoon
-git clone git clone https://github.com/ThePrimeagen/harpoon.git ~/.config/harpoon -b harpoon2
+git clone https://github.com/ThePrimeagen/harpoon.git ~/.config/harpoon -b harpoon2
 ```
 
 ### Change Log

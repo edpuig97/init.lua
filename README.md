@@ -14,6 +14,8 @@ mkdir ~/.config/harpoon
 git clone https://github.com/ThePrimeagen/harpoon.git ~/.config/harpoon -b harpoon2
 ```
 
+Checkout [this link](https://github.com/ThePrimeagen/neovimrc/issues/5)
+
 ### Change Log
 * [33eee9ad](https://github.com/ThePrimeagen/init.lua/commit/33eee9ad0c035a92137d99dae06a2396be4c892e) initial commits
 * [cb210006](https://github.com/ThePrimeagen/init.lua/commit/cb210006356b4b613b71c345cb2b02eefa961fc0) netrw, autogroups for yank highlighting, and auto remove whitespace
